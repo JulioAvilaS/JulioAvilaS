@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o Júlio Ávila, estudante apaixonado por tecnologia!
 
-
+<p>Tecnologias:</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
